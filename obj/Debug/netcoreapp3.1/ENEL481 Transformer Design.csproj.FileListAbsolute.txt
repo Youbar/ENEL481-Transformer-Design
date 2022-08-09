@@ -1,0 +1,14 @@
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\bin\Debug\netcoreapp3.1\ENEL481 Transformer Design.exe
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\bin\Debug\netcoreapp3.1\ENEL481 Transformer Design.deps.json
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\bin\Debug\netcoreapp3.1\ENEL481 Transformer Design.runtimeconfig.json
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\bin\Debug\netcoreapp3.1\ENEL481 Transformer Design.runtimeconfig.dev.json
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\bin\Debug\netcoreapp3.1\ENEL481 Transformer Design.dll
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\bin\Debug\netcoreapp3.1\ENEL481 Transformer Design.pdb
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\obj\Debug\netcoreapp3.1\ENEL481 Transformer Design.csproj.AssemblyReference.cache
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\obj\Debug\netcoreapp3.1\ENEL481 Transformer Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\obj\Debug\netcoreapp3.1\ENEL481 Transformer Design.AssemblyInfoInputs.cache
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\obj\Debug\netcoreapp3.1\ENEL481 Transformer Design.AssemblyInfo.cs
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\obj\Debug\netcoreapp3.1\ENEL481 Transformer Design.csproj.CoreCompileInputs.cache
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\obj\Debug\netcoreapp3.1\ENEL481 Transformer Design.dll
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\obj\Debug\netcoreapp3.1\ENEL481 Transformer Design.pdb
+C:\Users\kentt\source\repos\ENEL481 Transformer Design\obj\Debug\netcoreapp3.1\ENEL481 Transformer Design.genruntimeconfig.cache
