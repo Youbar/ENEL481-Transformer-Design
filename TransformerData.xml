@@ -2,5 +2,40 @@
 <transformer>
 	<specifications>
 		<title lang="en">33 kV to 11 kV Distribution Transformer</title>
+		<HV_Voltage>33</HV_Voltage> <!-- Measured in kV -->
+		<LV_Voltage>11</LV_Voltage>
+		<rating>400</rating> <!-- Measured in kVA -->
+		<frequency>50</frequency> <!-- Measured in Hz -->
+		<phases>1</phases>
+		<impedance>0</impedance>
+		<maxTapChange>0.05</maxTapChange>
+		<minTapChange>-0.05</minTapChange>
+		<length>2</length> <!-- Measured in metres -->
+		<width>1</width> <!-- Measured in metres -->
+		<height>2</height> <!-- Measured in metres -->
+		<size>4</size> <!-- Measured in cubic metres -->
+		<type>dry</type> <!-- No insulation -->
+		<standards>
+			<standard>AS 2374.1.2</standard>
+			<standard>AS 60076.1</standard>
+			<standard>AS 60076.11</standard>
+		</standards>
 	</specifications>
+	<performance>
+		<efficiency>0.95</efficiency>
+		<operatingTemp>180</operatingTemp>
+		<reliability>0.99</reliability>
+		<lifespan>30</lifespan> <!-- Measured in years -->
+		<core>Aluminium</core>
+		<coil>Aluminium</coil>
+		<case>Tole</case>
+	</performance>
+	<conditions>
+		<maxTemp>35</maxTemp>
+		<minTemp>-10</minTemp>
+		<maxHumid>0.95</maxHumid>
+		<minHumid>0.65</minHumid>
+		<maxRainfall>80</maxRainfall> <!-- Measured in mm -->
+		<minRainfall>20</minRainfall> <!-- Measured in mm -->
+	</conditions>
 </transformer>

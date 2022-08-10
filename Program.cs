@@ -9,7 +9,8 @@ namespace ENEL481_Transformer_Design
     {
         double CalculateConductivity(float resistivity)
         {
-            return (1 / resistivity);
+            double conductivity = (1 / resistivity);
+            return conductivity;
         }
 
         double CalculateResistivityByResistance(float resistance, float area, float length)
